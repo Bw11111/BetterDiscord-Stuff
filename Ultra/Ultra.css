@@ -127,7 +127,7 @@ svg.cursorDefault--wfhy5 {
 .headerText_c1d9fd .overflow_c74e70 {
     text-transform: uppercase !important;
     font-weight: 700 !important;
-    font-size: 12px;
+    /* font-size: 12px; */
 }
 
 .container_adcaac {
@@ -465,7 +465,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base_d0da3e.size24_fb468f,
 
 .overflow_c74e70:not(.nameAndDecorators_f9647d .overflow_c74e70) {
     text-transform: capitalize !important;
-    font-size: 11pt;
+    /* font-size: 11pt; */
     font-weight: 500;
 }
 
@@ -475,7 +475,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base_d0da3e.size24_fb468f,
 
 .name_d8bfb3,
 .channelName-3KPsGw {
-    font-size: 11pt;
+   /* font-size: 11pt; */
     text-transform: capitalize !important;
 }
 
@@ -535,7 +535,7 @@ h3.title-1_TkpU.fontDisplay-3Gtuks.base_d0da3e.size24_fb468f,
 .name_fd6364 {
     color: var(--channels-default);
     text-transform: uppercase;
-    font-size: 9pt;
+  /*  font-size: 9pt; */
 }
 
 .peopleList_e0840f::-webkit-scrollbar {
